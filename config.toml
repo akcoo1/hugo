@@ -3,7 +3,7 @@ baseURL = "https://akcoo1.github.io/hugo/"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
-languageCode = "zh-CN"
+languageCode = "zh"
 DefaultContentLanguage = "zh-cn"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -11,7 +11,7 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-theme = "hugo-theme-stack-3.5.0"
+theme = "hugo-PaperMod-5.0"
 title = "Paper"
 
 [params]
@@ -24,7 +24,7 @@ title = "Paper"
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "/posts/"
+    url  = "/post/"
 [[menu.main]]
     name = "About"
     weight = 2
