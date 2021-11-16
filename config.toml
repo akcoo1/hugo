@@ -3,8 +3,8 @@ baseURL = "https://akcoo1.github.io/hugo/"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 3
-languageCode = "zh"
-DefaultContentLanguage = "zh-cn"
+languageCode = "zh-CN"
+DefaultContentLanguage = "zh-CN"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
